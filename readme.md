@@ -50,10 +50,4 @@ O banco de dados `rede_social` consiste nas seguintes tabelas principais:
 - Recursos de mídia avançados (compartilhamento de fotos e vídeos).
 - Integração com APIs de outras redes sociais.
 
-## Contato
 
-Para mais informações ou suporte, entre em contato:
-
-[Seu Nome]
-[Seu Email]
-[LinkedIn]
